@@ -186,6 +186,8 @@ const Algebra = () => {
     xOffset = p5.width / 2;
     yOffset = p5.height / 2;
   };
+
+  
   return (
     <div className="min-h-screen pb-8">
       {/* Title Section */}
